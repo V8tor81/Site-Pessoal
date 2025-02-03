@@ -45,13 +45,18 @@ body{
     cursor: pointer;
     border-radius: 5px;
     margin: 0 auto; /* Centraliza o botão */
-    margin-left: 400px; /* Move o botão um pouco para a esquerda */
-    margin-top: 600px; 
+    margin-left: 700px; /* Move o botão um pouco para a esquerda */
+    margin-top: 500px; 
    
 }
 
+.fotoh{
+    margin-left: 1500px;
+    margin-top: -600px;
+    
+}
 
-.img{
+/*.img{
     height: -100px;
     width: -100px;
 }
@@ -66,7 +71,7 @@ body{
     top: 90px;
     right: 0;
     z-index: 1;
-} 
+} */
 
 .logo-container {
     display: inline-block;
